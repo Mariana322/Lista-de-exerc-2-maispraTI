@@ -55,6 +55,21 @@ Em um array de `vendas = [{ cliente, total }, ...]`, usa `reduce` para gerar um 
 
 ### 2. Clonar o Repositório
 
-```bash
 git clone https://github.com/Mariana322/Lista-de-exerc-2-maispraTI.git
 cd Lista-de-exerc-2-maispraTI
+
+---
+
+### 3. Instalar Dependências
+Este projeto utiliza prompt-sync para entrada de dados. Instale com:
+
+**npm install prompt-sync**
+
+---
+
+### 4. Executar os Exercícios
+Cada exercício está em um arquivo separado com extensão .js. Para rodar, use:
+
+**node NomeDoArquivo.js**
+
+**Siga o mesmo padrão para os demais arquivos.**
